@@ -53,7 +53,7 @@ Both models are built with TensorFlow and follow adversarial training between Ge
 
 ## 📸 Sample Outputs
 
-<img src= "FashionMnist.gif" width= "300">
+<img src= "FashionMnist/FashionMnist.gif" width= "300">
 
 <img src= "io/input/image.jpg" width= "300">
 
