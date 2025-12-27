@@ -20,9 +20,9 @@ Both models are built with TensorFlow and follow adversarial training between Ge
   - Outputs 2 logits (Fake/Real)
 - **Loss**: Categorical cross-entropy from logits
 - **Training**:
-  - 80 epochs
+  - 200 epochs
   - Noise vector size: 100
-  - Batch size: 256
+  - Batch size: 32
   - Normalized image range: `[-1, 1]`
 
 ---
